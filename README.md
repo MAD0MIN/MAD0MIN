@@ -30,7 +30,16 @@ Welcome to my GitHub profile! I'm a Systems Analyst with a passion for web appli
 
 ## 📈 Estatísticas do GitHub / GitHub Stats
 
-![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=MAD0MIN&show_icons=true&theme=radical)
+<div>
+  <a href="https://github.com/Gabrielle-Ribeiro">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAD0MIN&show_icons=true&theme=radical" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAD0MIN&layout=compact&langs_count=7&theme=radical"/> 
+  </center>
+</div>
+
 
 ## 🌍 Redes Sociais / Social Media
 
