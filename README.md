@@ -48,8 +48,8 @@ Welcome to my GitHub profile! I'm a Systems Analyst with a passion for web appli
 
 ## 📂 Projetos em Destaque / Featured Projects
 
-- **[wl consultor](https://github.com/MAD0MIN/Worklist_Consulta)**: Projeto que permite a consulta e acompanhamento de listas de trabalho, otimizando o controle de tarefas e fluxos de trabalho em um ambiente corporativo.
-   A project that allows consultation and tracking of worklists, optimizing task management and workflows in a corporate environment.
+- **[wl consultor](https://github.com/MAD0MIN/Worklist_Consulta)**: Projeto que permite a consulta de worklists em sistemas PACS.
+   A project that allows the consultation of worklists in PACS systems.
 - **[to do](https://github.com/MAD0MIN/TO_DO)**: Aplicativo simples de lista de tarefas, onde os usuários podem adicionar, remover e marcar tarefas como concluídas, auxiliando na organização do dia a dia.
  A simple to-do list application where users can add, remove, and mark tasks as completed, helping with day-to-day organization.
 
